@@ -2,7 +2,7 @@
  * The exercise class maps excercise type to the calories they burn per hour and to how
  * many hours the person performed these excercised.
  */
-class excercise {
+class Exercise {
 
    // a dictionary that maps a type of exercise to the number of calories they burn per hour
    // (Maggie)
